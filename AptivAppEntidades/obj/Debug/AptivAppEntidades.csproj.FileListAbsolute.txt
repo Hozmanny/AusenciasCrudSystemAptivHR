@@ -1,0 +1,5 @@
+C:\Users\MANNY\Documents\AptivApp\AptivApp1\AptivAppEntidades\bin\Debug\AptivAppEntidades.dll
+C:\Users\MANNY\Documents\AptivApp\AptivApp1\AptivAppEntidades\bin\Debug\AptivAppEntidades.pdb
+C:\Users\MANNY\Documents\AptivApp\AptivApp1\AptivAppEntidades\obj\Debug\AptivAppEntidades.dll
+C:\Users\MANNY\Documents\AptivApp\AptivApp1\AptivAppEntidades\obj\Debug\AptivAppEntidades.pdb
+C:\Users\MANNY\Documents\AptivApp\AptivApp1\AptivAppEntidades\obj\Debug\AptivAppEntidades.csprojAssemblyReference.cache

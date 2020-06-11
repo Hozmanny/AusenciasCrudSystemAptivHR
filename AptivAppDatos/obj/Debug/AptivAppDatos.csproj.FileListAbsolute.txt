@@ -1,0 +1,8 @@
+C:\Users\MANNY\Documents\AptivApp\AptivApp1\AptivAppDatos\bin\Debug\AptivAppDatos.dll
+C:\Users\MANNY\Documents\AptivApp\AptivApp1\AptivAppDatos\bin\Debug\AptivAppDatos.pdb
+C:\Users\MANNY\Documents\AptivApp\AptivApp1\AptivAppDatos\bin\Debug\AptivAppEntidades.dll
+C:\Users\MANNY\Documents\AptivApp\AptivApp1\AptivAppDatos\bin\Debug\AptivAppEntidades.pdb
+C:\Users\MANNY\Documents\AptivApp\AptivApp1\AptivAppDatos\obj\Debug\AptivAppDatos.dll
+C:\Users\MANNY\Documents\AptivApp\AptivApp1\AptivAppDatos\obj\Debug\AptivAppDatos.pdb
+C:\Users\MANNY\Documents\AptivApp\AptivApp1\AptivAppDatos\obj\Debug\AptivAppDatos.csprojAssemblyReference.cache
+C:\Users\MANNY\Documents\AptivApp\AptivApp1\AptivAppDatos\obj\Debug\AptivAppDatos.csproj.CopyComplete

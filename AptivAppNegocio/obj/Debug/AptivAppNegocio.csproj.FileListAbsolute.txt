@@ -1,0 +1,10 @@
+C:\Users\MANNY\Documents\AptivApp\AptivApp1\AptivAppNegocio\bin\Debug\AptivAppNegocio.dll
+C:\Users\MANNY\Documents\AptivApp\AptivApp1\AptivAppNegocio\bin\Debug\AptivAppNegocio.pdb
+C:\Users\MANNY\Documents\AptivApp\AptivApp1\AptivAppNegocio\bin\Debug\AptivAppDatos.dll
+C:\Users\MANNY\Documents\AptivApp\AptivApp1\AptivAppNegocio\bin\Debug\AptivAppEntidades.dll
+C:\Users\MANNY\Documents\AptivApp\AptivApp1\AptivAppNegocio\bin\Debug\AptivAppDatos.pdb
+C:\Users\MANNY\Documents\AptivApp\AptivApp1\AptivAppNegocio\bin\Debug\AptivAppEntidades.pdb
+C:\Users\MANNY\Documents\AptivApp\AptivApp1\AptivAppNegocio\obj\Debug\AptivAppNegocio.dll
+C:\Users\MANNY\Documents\AptivApp\AptivApp1\AptivAppNegocio\obj\Debug\AptivAppNegocio.pdb
+C:\Users\MANNY\Documents\AptivApp\AptivApp1\AptivAppNegocio\obj\Debug\AptivAppNegocio.csprojAssemblyReference.cache
+C:\Users\MANNY\Documents\AptivApp\AptivApp1\AptivAppNegocio\obj\Debug\AptivAppNegocio.csproj.CopyComplete
